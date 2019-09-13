@@ -20,7 +20,7 @@ To get this site on your computer, you need take the following steps:
 
 1. Clone Ginger:
     ```bash
-    $ git clone https://github.com/driebit/ginger.git
+    $ git clone https://github.com/esl/ginger_ec.git
     ```
     
 2. Clone this repository into the `sites/` directory:
